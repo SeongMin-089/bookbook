@@ -13,6 +13,7 @@ env/
 # Environment files
 .env
 .env.*
+secrets.json
 
 # VS Code
 .vscode/
